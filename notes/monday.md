@@ -1,6 +1,3 @@
-Make Change
-Make another Change
-Do something else changing a line
-
-
-making a change
+typing.io is a great resource for learning to type like a developer
+in google chrome, you can right click inspect or use the ctrl shift l console
+remember save, add, commit, push

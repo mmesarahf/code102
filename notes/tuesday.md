@@ -1,2 +1,3 @@
 Here are some notes from Tuesday night!
-Testing 
+Testing
+Making a change, adding, and committing 
